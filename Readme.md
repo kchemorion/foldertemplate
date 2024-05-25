@@ -13,5 +13,7 @@ pip install foldertemplate
 
 foldertemplate
 
+```
+
 Follow the prompts to enter the prefix, project name, and module name.
 
