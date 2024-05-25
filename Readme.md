@@ -15,14 +15,3 @@ foldertemplate
 
 Follow the prompts to enter the prefix, project name, and module name.
 
-go
-
-
-#### 7. Create `.gitignore`
-
-**`.gitignore`**:
-
-```gitignore
-__pycache__/
-*.pyc
-.DS_Store
