@@ -3,10 +3,9 @@
 A Python package to generate prefixed hierarchical folder structures using Cookiecutter.
 
 ## Installation
-
+```bash
 pip install foldertemplate
-
-
+```
 ## Usage
 
 ```bash
