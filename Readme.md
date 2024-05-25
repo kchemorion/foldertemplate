@@ -9,7 +9,7 @@ pip install foldertemplate
 
 ## Usage
 
-bash
+```bash
 
 foldertemplate
 
